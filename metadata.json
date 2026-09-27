@@ -1,0 +1,8 @@
+{
+  "name": "Chuka eFootball League",
+  "description": "Official mobile-first PWA for Chuka eFootball League with Knockout cups, League table, match screenshot verification, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
